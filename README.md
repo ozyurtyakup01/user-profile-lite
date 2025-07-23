@@ -16,3 +16,4 @@ Name part was missing color which causes it to be white and not visible. Added c
 
 ## Screenshot
 Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
+![12](https://github.com/user-attachments/assets/bf505d44-482f-4293-a6fe-29b71292a069)
